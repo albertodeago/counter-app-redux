@@ -1,8 +1,3 @@
-# flutter_app
+# Flutter Redux Example
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A demo counter implemented with <a href="https://github.com/brianegan/flutter_redux">Flutter Redux.</a>
